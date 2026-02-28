@@ -144,6 +144,26 @@ The analysis addresses 20 real business questions using advanced SQL and transla
 
 All 20 queries are available in the `/sql/` folder.
 
+01_revenue_by_category.sql
+02_top_5_customers.sql
+03_payment_method_popularity.sql
+04_sales_by_district.sql
+05_monthly_revenue_2017.sql
+06_top_5_items_by_quantity.sql
+07_avg_transaction_value_by_payment.sql
+08_supplier_performance.sql
+09_peak_revenue_hour.sql
+10_regional_breakdown.sql
+11_year_over_year_growth.sql
+12_most_frequent_customers.sql
+13_country_performance.sql
+14_top_5_banks_card.sql
+15_slow_moving_items.sql
+16_category_by_quarter.sql
+17_dhaka_subdistrict_breakdown.sql
+18_packaging_impact.sql
+19_average_basket_size.sql
+20_peak_transaction_hour.sql
 ## 🚀 What This Project Demonstrates
 
 - Strong SQL fundamentals
