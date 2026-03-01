@@ -21,7 +21,7 @@ Addresses **20 real business questions** with advanced SQL + stakeholder-ready i
 1. **Total Revenue by Category**  
    Beverages → **24.55%** of total revenue (dominant)  
    → High concentration risk → Protect supply chain + promote diversification
-
+   <image-card alt="Revenue by Category" src="01_revenue_by_category_top.png" ></image-card>
 2. **Top 5 Customers by Total Spend**  
    Clear VIP segment with outsized contribution  
    → Launch loyalty program + personalized retention
