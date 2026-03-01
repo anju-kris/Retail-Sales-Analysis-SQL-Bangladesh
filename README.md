@@ -107,6 +107,7 @@ Addresses **20 real business questions** with advanced SQL + stakeholder-ready i
 
 ## SQL Queries
 All 20 analyses are available as individual, well-commented `.sql` files:  
+
 01_revenue_by_category.sql  
 02_top_5_customers.sql  
 03_payment_method_popularity.sql  
