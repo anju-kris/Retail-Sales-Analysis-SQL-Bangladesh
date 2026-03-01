@@ -1,4 +1,8 @@
 # Retail Sales Analysis – SQL Project (Bangladesh Retail Stores)
+![GitHub repo size](https://img.shields.io/github/repo-size/anju-kris/Retail-Sales-Analysis-SQL-Bangladesh?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/anju-kris/Retail-Sales-Analysis-SQL-Bangladesh?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/anju-kris/Retail-Sales-Analysis-SQL-Bangladesh?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/anju-kris/Retail-Sales-Analysis-SQL-Bangladesh?style=flat-square)
 
 **Executive Summary**  
 End-to-end SQL analysis of multi-store retail sales data across Bangladesh.  
