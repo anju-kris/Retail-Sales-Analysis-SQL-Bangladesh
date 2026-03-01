@@ -81,7 +81,7 @@ Addresses **20 real business questions** with advanced SQL + stakeholder-ready i
 15. **Slow-Moving Items (Bottom 10)**  
     Several products have very low sales volume  
     → Discount/bundle + consider discontinuation  
-    ![Slow-Moving Items](15_slow_moving_items_bottom10.png)  <!-- add this screenshot if you have it -->
+    ![Slow-Moving Items](15_slow_moving_items_bottom10.png)  
 
 16. **Category Revenue by Quarter**  
     Clear quarterly seasonality in some categories  
