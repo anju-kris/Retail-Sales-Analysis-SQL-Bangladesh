@@ -20,28 +20,90 @@ Addresses **20 real business questions** with advanced SQL + stakeholder-ready i
 
 1. **Total Revenue by Category**  
    Beverages → **24.55%** of total revenue (dominant)  
-   → High concentration risk → Protect supply chain + promote diversification
-  ![Revenue by Category](01_revenue_by_category_top.png)
+   → High concentration risk → Protect supply chain + promote diversification  
+   ![Revenue by Category](01_revenue_by_category_top.png)
 
-3. **Top 5 Customers by Total Spend**  
+2. **Top 5 Customers by Total Spend**  
    Clear VIP segment with outsized contribution  
-   → Launch loyalty program + personalized retention
+   → Launch loyalty program + personalized retention  
+   ![Top 5 Customers by Spend](02_top_5_customers_spend.png)
 
-4. **Payment Method Popularity**  
+3. **Payment Method Popularity**  
    Card dominates revenue & shows higher ATV  
    → Secure digital infrastructure + negotiate lower fees
 
-5. **Sales by District**  
+4. **Sales by District**  
    Dhaka → **~22.39%** of total revenue (3× second place)  
-   → Extreme geographic dependency → Protect Dhaka + expand to Chittagong etc.
+   → Extreme geographic dependency → Protect Dhaka + expand to Chittagong etc.  
+   ![Top Districts by Revenue](04_districts_revenue_top10.png)
 
-6. **Monthly Revenue Trend (2017)**  
+5. **Monthly Revenue Trend (2017)**  
    Strong seasonality visible  
    → Replicate peak drivers + promote slow months
 
-6–20. (short summaries – same style as above)  
-   … (you already have excellent short versions — keep them)
+6. **Top 5 Most Sold Items (by Quantity)**  
+   Top items show strong daily demand & high turnover  
+   → Ensure availability + bundle with slow-movers  
+   ![Top 5 Items by Quantity](06_top_5_items_quantity.png)
 
+7. **Average Transaction Value by Payment Type**  
+   Digital payments show higher ATV than cash  
+   → Incentivize high-ATV methods
+
+8. **Supplier Performance**  
+   Few suppliers generate majority of revenue  
+   → Negotiate better terms + diversify base
+
+9. **Peak Sales Hour (Revenue)**  
+   One hour generates maximum revenue  
+   → Align staff shifts with peak hours
+
+10. **Regional Breakdown (Division + District)**  
+    Revenue heavily concentrated in certain regions  
+    → Replicate top-region strategy + regional marketing
+
+11. **Year-over-Year Revenue Growth**  
+    Calculated % change vs previous year  
+    → Investigate slowdowns + accelerate expansion if needed
+
+12. **Most Frequent Shoppers (by Transaction Count)**  
+    Some customers show strong behavioral loyalty  
+    → Frequency-based rewards + subscription model
+
+13. **Global Sourcing (Country Performance)**  
+    Some countries drive more revenue  
+    → Focus on high-revenue countries + evaluate cost
+
+14. **Top 5 Banks (Card Transactions)**  
+    Top banks contribute majority of card revenue  
+    → Collaborate on cashback + negotiate lower MDR
+
+15. **Slow-Moving Items (Bottom 10)**  
+    Several products have very low sales volume  
+    → Discount/bundle + consider discontinuation  
+    ![Slow-Moving Items](15_slow_moving_items_bottom10.png)  <!-- add this screenshot if you have it -->
+
+16. **Category Revenue by Quarter**  
+    Clear quarterly seasonality in some categories  
+    → Seasonal forecasting + align marketing
+
+17. **Dhaka Division – Sub-district Breakdown**  
+    Revenue concentrated in few sub-districts  
+    → Replicate top sub-districts + localized promotions  
+    ![Dhaka Sub-districts](17_dhaka_subdistricts_top10.png)
+
+18. **Packaging Impact (Cans vs Bottles)**  
+    Container type affects quantity & price  
+    → Focus promotion on preferred format
+
+19. **Average Basket Size**  
+    Average number of different items per transaction  
+    → Introduce combo offers + recommendation engine  
+    ![Average Basket Size](19_average_basket_size.png)
+
+20. **Peak Transaction Hour (by Count)**  
+    One hour sees highest transaction volume  
+    → Data-driven staffing + senior staff at peak
 (Full list of 20 questions + insights remains below in your current format)
 
 ## SQL Queries
