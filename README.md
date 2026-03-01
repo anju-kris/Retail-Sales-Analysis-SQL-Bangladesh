@@ -81,7 +81,6 @@ Addresses **20 real business questions** with advanced SQL + stakeholder-ready i
 15. **Slow-Moving Items (Bottom 10)**  
     Several products have very low sales volume  
     → Discount/bundle + consider discontinuation  
-    ![Slow-Moving Items](15_slow_moving_items_bottom10.png)  
 
 16. **Category Revenue by Quarter**  
     Clear quarterly seasonality in some categories  
@@ -104,7 +103,6 @@ Addresses **20 real business questions** with advanced SQL + stakeholder-ready i
 20. **Peak Transaction Hour (by Count)**  
     One hour sees highest transaction volume  
     → Data-driven staffing + senior staff at peak
-(Full list of 20 questions + insights remains below in your current format)
 
 ## SQL Queries
 
