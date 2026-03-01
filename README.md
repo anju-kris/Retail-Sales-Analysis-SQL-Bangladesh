@@ -81,26 +81,27 @@ Addresses **20 real business questions** with advanced SQL + stakeholder-ready i
 15. **Slow-Moving Items (Bottom 10)**  
     Several products have very low sales volume  
     → Discount/bundle + consider discontinuation
-
-16. **Category Revenue by Quarter**  
+    ![Slow-Moving Items].(15_slow_moving_items_bottom10.png)
+    
+17. **Category Revenue by Quarter**  
     Clear quarterly seasonality in some categories  
     → Seasonal forecasting + align marketing
 
-17. **Dhaka Division – Sub-district Breakdown**  
+18. **Dhaka Division – Sub-district Breakdown**  
     Revenue concentrated in few sub-districts  
     → Replicate top sub-districts + localized promotions  
     ![Dhaka Sub-districts](17_dhaka_subdistricts_top10.png)
 
-18. **Packaging Impact (Cans vs Bottles)**  
+19. **Packaging Impact (Cans vs Bottles)**  
     Container type affects quantity & price  
     → Focus promotion on preferred format
 
-19. **Average Basket Size**  
+20. **Average Basket Size**  
     Average number of different items per transaction  
     → Introduce combo offers + recommendation engine  
     ![Average Basket Size](19_average_basket_size.png)
 
-20. **Peak Transaction Hour (by Count)**  
+21. **Peak Transaction Hour (by Count)**  
     One hour sees highest transaction volume  
     → Data-driven staffing + senior staff at peak
 
