@@ -80,8 +80,7 @@ Addresses **20 real business questions** with advanced SQL + stakeholder-ready i
 
 15. **Slow-Moving Items (Bottom 10)**  
     Several products have very low sales volume  
-    → Discount/bundle + consider discontinuation  
-    ![Slow-Moving Items](15_slow_moving_items_bottom10.png)  
+    → Discount/bundle + consider discontinuation
 
 16. **Category Revenue by Quarter**  
     Clear quarterly seasonality in some categories  
@@ -106,9 +105,7 @@ Addresses **20 real business questions** with advanced SQL + stakeholder-ready i
     → Data-driven staffing + senior staff at peak
 
 ## SQL Queries
-
-All 20 analyses are available as individual, well-commented `.sql` files:
-
+All 20 analyses are available as individual, well-commented `.sql` files:  
 01_revenue_by_category.sql  
 02_top_5_customers.sql  
 03_payment_method_popularity.sql  
@@ -128,25 +125,23 @@ All 20 analyses are available as individual, well-commented `.sql` files:
 17_dhaka_subdistrict_breakdown.sql  
 18_packaging_impact.sql  
 19_average_basket_size.sql  
-20_peak_transaction_hour.sql  
+20_peak_transaction_hour.sql
 
 ## What This Project Demonstrates
-
-- Strong PostgreSQL & advanced SQL skills  
-- Ability to translate data into **business language**  
-- Risk-aware thinking (concentration, dependency, seasonality)  
-- Stakeholder-focused recommendations  
+- Strong PostgreSQL & advanced SQL skills
+- Ability to translate data into **business language**
+- Risk-aware thinking (concentration, dependency, seasonality)
+- Stakeholder-focused recommendations
 - Clean, reproducible project structure
 
 ## Next Steps (Planned)
-
-- Add result screenshots / sample output tables  
-- Build interactive dashboard (Looker Studio or Power BI)  
-- Add Python layer (pandas EDA + basic visualizations)  
+- Add more result screenshots / sample output tables
+- Build interactive dashboard (Looker Studio or Power BI)
+- Add Python layer (pandas EDA + basic visualizations)
 - Include data quality / cleaning notes
 
 Feel free to clone, run, or fork!  
 Questions / feedback → open an issue.
 
-Last updated: February 2026  
+Last updated: March 2026  
 Built by: ANJU KRISHNA E
