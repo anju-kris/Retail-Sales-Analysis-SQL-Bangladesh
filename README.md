@@ -21,20 +21,21 @@ Addresses **20 real business questions** with advanced SQL + stakeholder-ready i
 1. **Total Revenue by Category**  
    Beverages → **24.55%** of total revenue (dominant)  
    → High concentration risk → Protect supply chain + promote diversification
-   <image-card alt="Revenue by Category" src="01_revenue_by_category_top.png" ></image-card>
-2. **Top 5 Customers by Total Spend**  
+  ![Revenue by Category](01_revenue_by_category_top.png)
+
+3. **Top 5 Customers by Total Spend**  
    Clear VIP segment with outsized contribution  
    → Launch loyalty program + personalized retention
 
-3. **Payment Method Popularity**  
+4. **Payment Method Popularity**  
    Card dominates revenue & shows higher ATV  
    → Secure digital infrastructure + negotiate lower fees
 
-4. **Sales by District**  
+5. **Sales by District**  
    Dhaka → **~22.39%** of total revenue (3× second place)  
    → Extreme geographic dependency → Protect Dhaka + expand to Chittagong etc.
 
-5. **Monthly Revenue Trend (2017)**  
+6. **Monthly Revenue Trend (2017)**  
    Strong seasonality visible  
    → Replicate peak drivers + promote slow months
 
