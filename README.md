@@ -9,6 +9,27 @@ End-to-end SQL analysis of multi-store retail sales data across Bangladesh.
 Reveals key revenue drivers, customer behavior patterns, geographic concentration risks, seasonality trends, payment preferences, inventory health, and operational optimization opportunities.  
 Addresses **20 real business questions** with advanced SQL + stakeholder-ready insights, impacts & recommendations.
 
+## Important Data Quality Note
+
+This dataset has the following characteristics:
+- Only **264 unique products** (`item_id`) across the entire 1,000,000 rows
+- Only **39 unique payments** (`payment_id`)
+- As a result, every transaction includes **all 264 items** (due to heavy duplication in the data generation/import process)
+
+This leads to:
+- Average basket size = **264** (unrealistic – real retail averages are typically 2–5 distinct items per transaction)
+- Some metrics appear inflated or capped
+
+The analysis remains valid for:
+- Revenue concentration (e.g. Beverages 24.55%, Dhaka 22.39%)
+- Geographic trends
+- Payment preferences (Card ~89.74%)
+- Inventory & supplier insights
+
+In a real project, I would clean duplicates, re-import, or request better data. This limitation is documented transparently as part of the learning process.
+
+Feedback on handling data issues is welcome!
+
 ## Project Overview
 
 - **Dataset**: Retail sales fact table + dimensions  
