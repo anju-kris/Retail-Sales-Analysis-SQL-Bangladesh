@@ -63,11 +63,11 @@ In production I would clean duplicates, re-import, or request better data.
 
 ![Dashboard Full Overview](dashboard-overview.png)
 
-![KPIs Close-up](images/kpis-closeup.png)
+![KPIs Close-up](kpis-closeup.png)
 
-![Charts and Data Quality Note](images/charts-note.png)
+![Charts and Data Quality Note](charts-note.png)
 
-![Filtered View Example](images/filtered-view.png)
+![Filtered View Example](filtered-view.png)
 
 ## SQL Queries (20 Business Questions)
 
