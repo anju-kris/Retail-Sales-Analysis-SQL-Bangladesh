@@ -45,9 +45,8 @@ In production I would clean duplicates, re-import, or request better data.
 
 ## Live Power BI Dashboard
 
-Interactive public version:
-
-[View Bangladesh Retail Sales Dashboard →](https://app.powerbi.com/view?r=your_embedded_link_here_if_published)
+**Interactive public version** (if published):  
+[View Dashboard on Power BI Service](https://app.powerbi.com/view?r=your_link_here_if_published)
 
 **Features**:
 - 4 main KPIs with real-time formatting
@@ -57,10 +56,18 @@ Interactive public version:
 - Category & district slicers for filtering
 - Clear data quality note
 
+**Download Power BI file**:  
+[Download Bangladesh Retail Sales Dashboard.pbix](Bangladesh Retail Sales Dashboard.pbix)
+
 **Screenshots**:
 
-![Dashboard Overview](images/dashboard-full.png)  
-*(Add 1–3 screenshots in /images/ folder)*
+![Dashboard Overview](images/dashboard-overview.png)
+
+![KPIs Close-up](images/kpis-closeup.png)
+
+![Filtered View Example](images/filtered-view.png)
+
+![Data Quality Note](images/data-note.png)
 
 ## SQL Queries (20 Business Questions)
 
