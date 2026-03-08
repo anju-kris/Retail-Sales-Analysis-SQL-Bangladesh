@@ -59,10 +59,6 @@ In production I would clean duplicates, re-import, or request better data.
 **Download Power BI file**:  
 [Download Bangladesh Retail Sales Dashboard.pbix](Bangladesh Retail Sales Dashboard.pbix)
 
-**Screenshots**:
-
-## Screenshots
-
 ## Screenshots
 
 ![Dashboard Full Overview](images/dashboard-overview.png)
