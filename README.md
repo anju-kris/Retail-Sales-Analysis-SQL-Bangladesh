@@ -1,5 +1,8 @@
 # Bangladesh Retail Sales Analysis – SQL + Power BI Project
-
+![GitHub repo size](https://img.shields.io/github/repo-size/anju-kris/Retail-Sales-Analysis-SQL-Bangladesh?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/anju-kris/Retail-Sales-Analysis-SQL-Bangladesh?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/anju-kris/Retail-Sales-Analysis-SQL-Bangladesh?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/anju-kris/Retail-Sales-Analysis-SQL-Bangladesh?style=flat-square)
 End-to-end retail analytics project using PostgreSQL (SQL) and Power BI dashboard on Bangladesh retail sales data.
 
 Reveals revenue drivers, geographic concentration, payment preferences, category dominance, and operational insights.
