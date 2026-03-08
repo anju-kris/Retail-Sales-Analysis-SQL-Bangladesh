@@ -61,7 +61,7 @@ In production I would clean duplicates, re-import, or request better data.
 
 ## Screenshots
 
-![Dashboard Full Overview](images/dashboard-overview.png)
+![Dashboard Full Overview](dashboard-overview.png)
 
 ![KPIs Close-up](images/kpis-closeup.png)
 
