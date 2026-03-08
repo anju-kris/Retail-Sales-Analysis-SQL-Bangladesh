@@ -57,7 +57,7 @@ In production I would clean duplicates, re-import, or request better data.
 - Clear data quality note
 
 **Download Power BI file**:  
-[Download Bangladesh Retail Sales Dashboard.pbix](Bangladesh Retail Sales Dashboard.pbix)
+[Download Bangladesh Retail Sales Dashboard.pbix](ecommerce_dataset.pbix)
 
 ## Screenshots
 
